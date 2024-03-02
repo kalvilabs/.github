@@ -3,6 +3,8 @@
 We are an opensource company building modern technology stack for building your edtech platform - craft eLearning content, manage online classes, administer online assessments, foster communities, implement gamification strategies - all without building from scratch.
 <br>
 
+🌐 https://www.kalvi.co <br> 📧 hello@kalvi.co
+
 ![image](https://github.com/kalvilabs/.github/assets/9934901/f16d0280-cb8d-4f95-80d4-6f8e973a989d)
 <br>
 
