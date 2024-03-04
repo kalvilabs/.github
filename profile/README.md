@@ -21,6 +21,8 @@ We are an opensource company building modern technology stack for building your 
 
 <h3>Assess - Administer online assessments in Coding, Math and Mocks with Proctoring </h3>
 
+![ss2-1](https://github.com/kalvilabs/.github/assets/9934901/4f0eb1b3-4d94-4b25-8aa6-dc205563614d)
+
 
  <h3>Gamify - Transform educational journey into an exciting adventure </h3>
 <img width="869" alt="image" src="https://github.com/kalvilabs/.github/assets/9934901/2bfddc86-2e53-460f-9dde-a75f88af4ce8">
